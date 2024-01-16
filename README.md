@@ -24,12 +24,12 @@ Before running the application, make sure you have the following:
 
 2. Update the configuration:
 
-    - Open `app.py` and replace the placeholder values for `account_sid`, `auth_token`, and `verify_sid` with your Twilio credentials.
+    - Open `otp1.py` and replace the placeholder values for `account_sid`, `auth_token`, and `verify_sid` with your Twilio credentials.
 
 3. Run the application:
 
     ```bash
-    python app.py
+    python otp1.py
     ```
 
 4. Access the application in your browser:
